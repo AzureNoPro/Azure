@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTM3U url-tvg="List created by Azure"
 #EXTM3U url-tvg="Trong list sẽ có kênh của nguồn khác"
+#EXTM3U url-tvg="Nhóm Zalo: http://https://azurex88.ddns.net/zalo"
 #*--_--*#| VTV*--_--*#
 #EXTINF:0 tvg-id="vtv1hd" group-title="#| VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
