@@ -45,6 +45,82 @@ http://thvip.site/360/9870/index.m3u8
 #EXTINF:0 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus9.png",TV360+9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/9887/index.m3u8
+#*--_--*Sự Kiện FPT*--_--*#
+#EXTINF:0 tvg-id="fptpladio" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/pladio.png",FPT Play Pladio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzhd2/pladio_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="fsports1" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports2" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao02_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports3" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao03_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports4" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao04_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports5" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao05_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports6" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao06_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports7" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports8" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao08_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports9" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao09_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports10" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports11" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports12" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao12_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports13" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao13_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports14" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports15" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports16" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports17" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports18" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports19" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports20" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports21" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao21_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports22" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao22_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports23" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao23_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports24" group-title="Sự Kiện FPT" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
 #*--_--*#| VTV*--_--*#
 #EXTINF:0 tvg-id="vtv1hd" group-title="#| VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
