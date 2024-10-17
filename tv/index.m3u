@@ -243,7 +243,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:0 tvg-id="sctvhdpth" group-title="#| SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctvpth.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
-#*--_--*Thiết yếu*--_--*#
+#*--_--*#| Thiết yếu*--_--*#
 #EXTINF:0 tvg-id="antvhd" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://301984010.r.vtvcdn.com/hls/ONANTV_CL/04.m3u8
@@ -262,7 +262,7 @@ https://301984010.r.vtvcdn.com/hls/TTXVN_VNEWS/index.m3u8
 #EXTINF:0 tvg-id="vovtvhd" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/vovtv.png",VOV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
-#*--_--*Vĩnh Long*--_--*#
+#*--_--*#| Vĩnh Long*--_--*#
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="#| Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong1.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/vl1/index.m3u8
@@ -275,3 +275,34 @@ https://thvip.site/vl3/index.m3u8
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="#| Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong4.png",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/vl4/index.m3u8
+#*--_--*#| In The Box*--_--*#
+#EXTINF:0 tvg-id="boxhits" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/boxhits.png",Box Hits HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/239/index.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/boxmovie1.png",Box Movie 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+#EXTINF:0 tvg-id="inthebox" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/inthebox.png",In The Box HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/235/index.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/hollywoodclassics.png",Hollywood Classics HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:0 tvg-id="happykids" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/happykids.png",Happy Kids HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+#EXTINF:0 tvg-id="drfithd" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/drfit.png",Dr.Fit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+#EXTINF:0 tvg-id="musicbox" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/musicbox.png",Music Box HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTINF:0 tvg-id="planetearthhd" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/planetearth.png",Planet Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
+#EXTINF:0 tvg-id="manhd" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/man.png",Man HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/237/index.m3u8
+#EXTINF:0 tvg-id="woman" group-title="#| In The Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/woman.png",Woman HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
