@@ -243,3 +243,35 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:0 tvg-id="sctvhdpth" group-title="#| SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctvpth.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+#*--_--*Thiết yếu*--_--*#
+#EXTINF:0 tvg-id="antvhd" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/antv.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://301984010.r.vtvcdn.com/hls/ONANTV_CL/04.m3u8
+#EXTINF:0 tvg-id="qpvnhd" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/qpvn.png",QPVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://301984010.r.vtvcdn.com/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:0 tvg-id="quochoi" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/quochoi.png",Quốc Hội TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://220213024.r.vtvcdn.com/hls/ONQUOCHOI_CL/04.m3u8
+#EXTINF:0 tvg-id="nhandan" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/nhandan.png",Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://301984010.r.vtvcdn.com/hls/ONNHANDAN_CL/index.m3u8
+#EXTINF:0 tvg-id="ttxvnhd" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/ttxvn.png",TTXVN - VNEWS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://301984010.r.vtvcdn.com/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:0 tvg-id="vovtvhd" group-title="#| Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/vovtv.png",VOV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#*--_--*Vĩnh Long*--_--*#
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="#| Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong1.png",Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/vl1/index.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="#| Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong2.png",Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/vl2/index.m3u8
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="#| Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong3.png",Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/vl3/index.m3u8
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="#| Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong4.png",Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://thvip.site/vl4/index.m3u8
