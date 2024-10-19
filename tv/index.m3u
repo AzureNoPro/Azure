@@ -162,6 +162,9 @@ http://thvip.site/360/180/index.m3u8
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab2.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/175/index.m3u8
+#EXTINF:0 tvg-id="onsports" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab3.png",ON Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/rtp/232.84.3.242:11374
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/181/index.m3u8
