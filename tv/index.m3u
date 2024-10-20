@@ -171,6 +171,9 @@ http://thvip.site/360/181/index.m3u8
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab5.png",ON EChannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/182/index.m3u8
+#EXTINF:0 tvg-id="onsportsplus" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab6.png",ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://azurex88.ddns.net/premium/bpk-tv/vstv/vtvcab6/index.m3u8
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab7.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/136/index.m3u8
