@@ -194,7 +194,7 @@ http://thvip.site/360/27/index.m3u8
 http://thvip.site/360/185/index.m3u8
 #EXTINF:0 tvg-id="onfootball" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab16.png",ON Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-https://azurex88.ddns.net/bpk-tv/vstv/vtvcab16/index.m3u8
+https://azurex88.ddns.net/premium/bpk-tv/vstv/vtvcab16/index.m3u8
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="#| VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab17.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/186/index.m3u8
@@ -216,7 +216,7 @@ http://thvip.site/360/169/index.m3u8
 #*--_--*#| Kplus*#--_--*#
 #EXTINF:0 tvg-id="kcinehd" group-title="#| Kplus" tvg-logo="https://azurex88.ddns.net/images/vstv/kplus_cine.png",K+CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-https://azurex88.ddns.net/bpk-tv/vstv/kplus_cine/index.m3u8
+https://azurex88.ddns.net/premium/bpk-tv/vstv/kplus_cine/index.m3u8
 #*--_--*#| VTC*--_--*#
 #EXTINF:0 tvg-id="vtc1hd" group-title="#| VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc1.png",VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
