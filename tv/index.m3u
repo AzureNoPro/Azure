@@ -451,7 +451,7 @@ http://49.0.64.96:8007/ABC
 #EXTINF:0 tvg-id="bbcworldnews" group-title="#| Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/bbc-news.png",BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:0 tvg-id="cartoonhd" group-title="#| Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cartoon.png",Cartoon Network
+#EXTINF:0 tvg-id="cartoonhd" group-title="#| Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cartoon-network.png",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://azurex88.ddns.net/premium/bpk-tv/qnettv/cartoon/index.m3u8
 #EXTINF:0 tvg-id="cna" group-title="#| Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cna.png",CNA
