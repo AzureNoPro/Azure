@@ -122,6 +122,31 @@ http://live.fptplay53.net/fnxsport/thethao23_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:0 tvg-id="fsports24" group-title="##Sự kiện FPT#" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
+#*--_--*##Sự kiện ONPlus#*--_--*#
+#EXTINF:0 tvg-id="onplus2" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT02/index.m3u8
+#EXTINF:0 tvg-id="onplus3" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT03/index.m3u8
+#EXTINF:0 tvg-id="onplus4" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT04/index.m3u8
+#EXTINF:0 tvg-id="onplus6" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT06/index.m3u8
+#EXTINF:0 tvg-id="onplus7" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT07/index.m3u8
+#EXTINF:0 tvg-id="onplus8" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT08/index.m3u8
+#EXTINF:0 tvg-id="onplus9" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT09/index.m3u8
+#EXTINF:0 tvg-id="onplus10" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Events 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT010/index.m3u8
 #*--_--*#| Kênh VTV*--_--*#
 #EXTINF:0 tvg-id="vtv1hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
