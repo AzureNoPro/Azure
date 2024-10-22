@@ -773,28 +773,3 @@ http://azurex88.ddns.net/premium/bpk-tv/qnettv/warnertv/index.m3u8
 #EXTINF:0 tvg-id="zoomoo" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/zoomoo.png",Zoomoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/Zoomoo
-#*--_--*#| Zing MP3 Radio*--_--*#
-#EXTINF:0 tvg-id="zingmp3cpop" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/c-pop.jpg",Zing MP3 - CPop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/BNxcJ9nHSnI/zhls/playback-realtime/very-low/ac19a6de9a9b73c52a8a/very-low.m3u8
-#EXTINF:0 tvg-id="zingmp3edm" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/edm.jpg",Zing MP3 - EDM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/J7cEnl_KGwA/zhls/playback-realtime/very-low/7ad38814b4515d0f0440/very-low.m3u8
-#EXTINF:0 tvg-id="zingmp3vpop" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/v-pop.png",Zing MP3 - VPop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
-#EXTINF:0 tvg-id="zingmp3acoustic" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/acoustic.png",Zing MP3 - Acoustic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
-#EXTINF:0 tvg-id="zingmp3bolero" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/bolero.jpg",Zing MP3 - Bolero
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
-#EXTINF:0 tvg-id="zingmp3rapviet" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/rapviet.jpg",Zing MP3 - Rap Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
-#EXTINF:0 tvg-id="zingmp3kpop" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/k-pop.jpg",Zing MP3 - KPop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
-#EXTINF:0 tvg-id="zingmp3usuk" group-title="#| Zing MP3 Radio" tvg-logo="https://azurex88.ddns.net/images/zingmp3/us-uk.jpg",Zing MP3 - USUK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
