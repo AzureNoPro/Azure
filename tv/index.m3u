@@ -760,3 +760,6 @@ http://azurex88.ddns.net/premium/bpk-tv/qnettv/tv5monde/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/warnertv.png",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://azurex88.ddns.net/premium/bpk-tv/qnettv/warnertv/index.m3u8
+#EXTINF:0 tvg-id="zoomoo.sg" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/zoomoo.png",Zoomoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://49.0.64.96:8007/Zoomoo
