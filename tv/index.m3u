@@ -147,6 +147,13 @@ http://301984010.r.vtvcdn.com/hls/ONSPORT09/index.m3u8
 #EXTINF:0 tvg-id="onplus10" group-title="##Sự kiện ONPlus#" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://301984010.r.vtvcdn.com/hls/ONSPORT010/index.m3u8
+#*--_--*##Thể thao#*--_--*#
+#EXTINF:0 tvg-id="spotv1" group-title="##Thể thao#" tvg-logo="https://azurex88.ddns.net/images/sports/spotv.png",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:0 tvg-id="spotv2" group-title="##Thể thao#" tvg-logo="https://azurex88.ddns.net/images/sports/spotv2.png",SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #*--_--*#| Kênh VTV*--_--*#
 #EXTINF:0 tvg-id="vtv1hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
