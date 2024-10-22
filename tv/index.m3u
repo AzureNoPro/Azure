@@ -748,6 +748,9 @@ http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/nhkpremium.png",NHK Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
+#EXTINF:0 tvg-id="one" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/one.png",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://cdn09jtedge.indihometv.com/joss/133/sone/chunklist_w1803602652_b1544100_sleng.m3u8?c
 #EXTINF:0 tvg-id="outdoorhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/outdoor.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://azurex88.ddns.net/premium/bpk-tv/qnettv/outdoor/index.m3u8
