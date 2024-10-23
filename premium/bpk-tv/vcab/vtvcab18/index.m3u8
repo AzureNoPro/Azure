@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,CODECS="avc1.640028,mp4a.40.2",
+https://mobile-web.stream.onlive.vn/live-stm-02/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.1wbcfoha2Fs06KzXZfH5uxGSvDwZHTT3UuBIql-vzEK0mJJkMazU3ooM2gG40hvV9JBDowYdHNW-NpjlVj9pEg
