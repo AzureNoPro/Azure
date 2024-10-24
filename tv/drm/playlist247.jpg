@@ -551,7 +551,7 @@ http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
 http://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hanoi2.png",Hà Nội 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://thvip.site/360/34/index.m3u8
+http://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:0 tvg-id="hatinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hatinh.png",Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://wse.hatinhtv.net/live/httv1/chunklist_w271915096.m3u8
