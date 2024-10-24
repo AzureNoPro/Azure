@@ -596,7 +596,7 @@ http://stream.thingnet.vn:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 http://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/laocai.png",Lào Cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+http://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
 #EXTINF:0 tvg-id="longan" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/longan.png",Long An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
