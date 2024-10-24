@@ -1,0 +1,797 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+#EXTM3U url-tvg="List created by Azure"
+#EXTM3U url-tvg="Trong list sẽ có kênh của nguồn khác"
+#EXTM3U url-tvg="Nhóm Zalo: https://azurex88.ddns.net/zalo"
+
+
+#*--_--*@ONNA Network*--_--*#
+#EXTINF:0 tvg-id="onnaanime" group-title="@ONNA Network" tvg-logo="https://azurex88.ddns.net/images/archive/onna-anime.png",ONNA Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://kinescope.io/tGmeZgzk9PT4ufTTGqjrTf/master.m3u8
+#EXTINF:0 tvg-id="onnamusic" group-title="@ONNA Network" tvg-logo="https://azurex88.ddns.net/images/archive/onna-music.png",ONNA Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://kinescope.io/qPLipcLsF5bvM3v2BQQkBB/master.m3u8
+#EXTINF:0 tvg-id="onnasatv24" group-title="@ONNA Network" tvg-logo="https://azurex88.ddns.net/images/archive/onna-satv24.png",ONNA SATV24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://doitac.nekocdn.xyz/satv24/index.m3u8
+#EXTINF:0 tvg-id="onnatroami" group-title="@ONNA Network" tvg-logo="https://azurex88.ddns.net/images/archive/onna-troami.png",ONNA Troami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://kinescope.io/fNfgXyS8xJLxquoPs62pyT/master.m3u8
+#EXTINF:0 tvg-id="onnaradio" group-title="@ONNA Network" tvg-logo="https://azurex88.ddns.net/images/archive/onna-radio.png",ONNA Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://stream.zeno.fm/crwtkeidk9vuv
+#*--_--*@Sự kiện MyTV@*--_--*#
+#EXTINF:0 tvg-id="801" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.ddns.net/images/mytv/mytv.png",801
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/rtp/232.84.2.175:10858
+#EXTINF:0 tvg-id="802" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.ddns.net/images/mytv/mytv.png",802
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/rtp/232.84.2.176:10864
+#EXTINF:0 tvg-id="803" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.ddns.net/images/mytv/mytv.png",803
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/rtp/232.84.2.195:10954
+#EXTINF:0 tvg-id="804" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.ddns.net/images/mytv/mytv.png",804
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/rtp/232.84.2.196:10960
+#*--_--*@Sự kiện TV360@*--_--*#
+#EXTINF:0 tvg-id="tv360plus1" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus1.png",TV360+1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbOALAsMPY5YT2XEQmNZ8ElU/ts
+#EXTINF:0 tvg-id="tv360plus2" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus2.png",TV360+2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbNfs6WR5Dtlyn_x8hCLsf7o/ts
+#EXTINF:0 tvg-id="tv360plus3" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus3.png",TV360+3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbAKJUddB5rk31bmauxL4ej4/ts
+#EXTINF:0 tvg-id="tv360plus4" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus4.png",TV360+4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/2458/index.m3u8
+#EXTINF:0 tvg-id="tv360plus5" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus5.png",TV360+5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9867/index.m3u8
+#EXTINF:0 tvg-id="tv360plus6" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus6.png",TV360+6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9868/index.m3u8
+#EXTINF:0 tvg-id="tv360plus7" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus7.png",TV360+7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9869/index.m3u8
+#EXTINF:0 tvg-id="tv360plus8" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus8.png",TV360+8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9870/index.m3u8
+#EXTINF:0 tvg-id="tv360plus9" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.ddns.net/images/tv360/tv360plus9.png",TV360+9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9887/index.m3u8
+#*--_--*@Sự kiện FPT@*--_--*#
+#EXTINF:0 tvg-id="fptpladio" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/pladio.png",FPT Play Pladio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzhd2/pladio_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="fsports1" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports2" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao02_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports3" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao03_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports4" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao04_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports5" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao05_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports6" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao06_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports7" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports8" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao08_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports9" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao09_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports10" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports11" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports12" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao12_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports13" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzsport/thethao13_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports14" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports15" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports16" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports17" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports18" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports19" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports20" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports21" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao21_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports22" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao22_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports23" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao23_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:0 tvg-id="fsports24" group-title="@Sự kiện FPT@" tvg-logo="https://azurex88.ddns.net/images/fpt/fptplay.png",FPT Play 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
+#*--_--*@Sự kiện ONPlus@*--_--*#
+#EXTINF:0 tvg-id="onplus2" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT02/index.m3u8
+#EXTINF:0 tvg-id="onplus3" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT03/index.m3u8
+#EXTINF:0 tvg-id="onplus4" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT04/index.m3u8
+#EXTINF:0 tvg-id="onplus6" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT06/index.m3u8
+#EXTINF:0 tvg-id="onplus7" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT07/index.m3u8
+#EXTINF:0 tvg-id="onplus8" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT08/index.m3u8
+#EXTINF:0 tvg-id="onplus9" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT09/index.m3u8
+#EXTINF:0 tvg-id="onplus10" group-title="@Sự kiện ONPlus@" tvg-logo="https://azurex88.ddns.net/images/onplus/onplus.png",ONPlus Live 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONSPORT010/index.m3u8
+#*--_--*@Thể thao@*--_--*#
+#EXTINF:0 tvg-id="spotv1" group-title="@Thể thao@" tvg-logo="https://azurex88.ddns.net/images/sports/spotv.png",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:0 tvg-id="spotv2" group-title="@Thể thao@" tvg-logo="https://azurex88.ddns.net/images/sports/spotv2.png",SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+#*--_--*#| Kênh VTV*--_--*#
+#EXTINF:0 tvg-id="vtv1hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv1.png",VTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv1/index.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv2.png",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv2/index.m3u8
+#EXTINF:0 tvg-id="vtv3hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv3.png",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv3/index.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv4.png",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv4/index.m3u8
+#EXTINF:0 tvg-id="vtv5hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv5.png",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv5/index.m3u8
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv5_tnb.png",VTV5 - Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/157/index.m3u8
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv5_tn.png",VTV5 - Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/207/index.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv6.png",VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv6/index.m3u8
+#EXTINF:0 tvg-id="vtv7hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv7.png",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv7/index.m3u8
+#EXTINF:0 tvg-id="vtv8hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv8.png",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv8/index.m3u8
+#EXTINF:0 tvg-id="vtv9hd" group-title="#| Kênh VTV" tvg-logo="https://azurex88.ddns.net/images/vtv/vtv9.png",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv9/index.m3u8
+#*--_--*#| Kênh VTVcab*--_--*#
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab1.png",ON Vie GIẢI TRÍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/180/index.m3u8
+#EXTINF:0 tvg-id="vtvcab2hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab2.png",ON Phim Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/175/index.m3u8
+#EXTINF:0 tvg-id="onsports" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab3.png",ON Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/rtp/232.84.3.242:11374
+#EXTINF:0 tvg-id="vtvcab4hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab4.png",ON Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/181/index.m3u8
+#EXTINF:0 tvg-id="vtvcab5hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab5.png",ON EChannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/182/index.m3u8
+#EXTINF:0 tvg-id="onsportsplus" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab6.png",ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://azurex88.ddns.net/premium/bpk-tv/vcab/vtvcab6/chunks.m3u8
+#EXTINF:0 tvg-id="vtvcab7hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab7.png",ON O2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/136/index.m3u8
+#EXTINF:0 tvg-id="vtvcab8hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab8.png",ON BiBi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/178/index.m3u8
+#EXTINF:0 tvg-id="vtvcab9hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab9.png",ON Info TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/189/index.m3u8
+#EXTINF:0 tvg-id="vtvcab10hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab10.png",ON Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/176/index.m3u8
+#EXTINF:0 tvg-id="vtvcab12hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab12.png",ON Style TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/184/index.m3u8
+#EXTINF:0 tvg-id="vtvcab13" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab13.png",ON Homeshopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/27/index.m3u8
+#EXTINF:0 tvg-id="vtvcab15hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab15.png",ON Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/185/index.m3u8
+#EXTINF:0 tvg-id="onfootball" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab16.png",ON Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/vcab/vtvcab16/chunks.m3u8
+#EXTINF:0 tvg-id="vtvcab17hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab17.png",ON Trending TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/186/index.m3u8
+#EXTINF:0 tvg-id="onsportsnews" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab18.png",ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/vcab/vtvcab18/chunks.m3u8
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab19.png",ON Vie DRAMAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/177/index.m3u8
+#EXTINF:0 tvg-id="vtvcab20hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab20.png",ON VFamily
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/187/index.m3u8
+#EXTINF:0 tvg-id="vtvcab21hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab21.png",ON Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/179/index.m3u8
+#EXTINF:0 tvg-id="vtvcab22hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab22.png",ON Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/188/index.m3u8
+#EXTINF:0 tvg-id="ongolf" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab23.png",ON Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/169/index.m3u8
+#EXTINF:0 tvg-id="btv5hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/btv5-onsports-action.png",BTV5 - ON Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/vcab/btv5/index.m3u8
+#*--_--*#| Kênh VTC*--_--*#
+#EXTINF:0 tvg-id="vtc1hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc1.png",VTC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://220213024.r.vtvcdn.com/hls/ONVTC1_CL/01.m3u8
+#EXTINF:0 tvg-id="vtc2" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc2.png",VTC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc2/index.m3u8
+#EXTINF:0 tvg-id="vtc3hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc3.png",VTC3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc3/index.m3u8
+#EXTINF:0 tvg-id="vtc4hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc4.png",VTC4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc4/index.m3u8
+#EXTINF:0 tvg-id="vtc5hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc5.png",VTC5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc5/index.m3u8
+#EXTINF:0 tvg-id="vtc6hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc6.png",VTC6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc6/index.m3u8
+#EXTINF:0 tvg-id="vtc7hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc7.png",VTC7 - Today TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/201/index.m3u8
+#EXTINF:0 tvg-id="vtc8" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc8.png",VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc8/index.m3u8
+#EXTINF:0 tvg-id="vtc9hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc9.png",VTC9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc9/index.m3u8
+#EXTINF:0 tvg-id="vtc10" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc10.png",VTC10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc10/index.m3u8
+#EXTINF:0 tvg-id="vtc11" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc11.png",VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/205/index.m3u8
+#EXTINF:0 tvg-id="vtc14hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc14.png",VTC14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc14/index.m3u8
+#EXTINF:0 tvg-id="vtc16" group-title="#| Kênh VTC" tvg-logo="https://azurex88.ddns.net/images/vtc/vtc16.png",VTC16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtc16/index.m3u8
+#*--_--*#| Kênh Hplus*--_--*#
+#EXTINF:0 tvg-id="htv1" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htv1.png",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:0 tvg-id="htv2hd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htv2.png",HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:0 tvg-id="htv3" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htv3.png",HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:0 tvg-id="htvkey" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htv4.png",HTV Keys
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:0 tvg-id="htv7hd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htv7.png",HTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:0 tvg-id="htv9hd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htv9.png",HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTINF:0 tvg-id="htvcoop" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcoop.png",HTV Co.op
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://vc.101vn.com/htv/htvcmb.php?id=31973
+#EXTINF:0 tvg-id="htvthethaohd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvthethao.png",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/htvtt/index.m3u8
+#EXTINF:0 tvg-id="htvccanhachd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvccanhac.png",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/canhac/index.m3u8
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcdulich.png",HTVC Du Lịch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/dulich/index.m3u8
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcgiadinh.png",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/giadinh/index.m3u8
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcphunu.png",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/phunu/index.m3u8
+#EXTINF:0 tvg-id="htvcphimhd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcphim.png",HTVC Phim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/htvcphim/index.m3u8
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcthuanviet.png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/thuanviet/index.m3u8
+#EXTINF:0 tvg-id="htvcplushd" group-title="#| Kênh Hplus" tvg-logo="https://azurex88.ddns.net/images/hplus/htvcplus.png",HTVC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/htvcplus/index.m3u8
+#*--_--*#| Kênh SCTV*--_--*#
+#EXTINF:0 tvg-id="sctv1hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv1.png",SCTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:0 tvg-id="sctv2hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv2.png",SCTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+#EXTINF:0 tvg-id="sctv3hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv3.png",SCTV3 - SEE TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:0 tvg-id="sctv4hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv4.png",SCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:0 tvg-id="sctv5hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv5.png",SCTV5 - SCJ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:0 tvg-id="sctv6hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv6.png",SCTV6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+#EXTINF:0 tvg-id="sctv7hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv7.png",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+#EXTINF:0 tvg-id="sctv8hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv8.png",SCTV8 - VITV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+#EXTINF:0 tvg-id="sctv9hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv9.png",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#EXTINF:0 tvg-id="sctv10hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv10.png",SCTV10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+#EXTINF:0 tvg-id="sctv11hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv11.png",SCTV11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+#EXTINF:0 tvg-id="sctv12hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv12.png",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+#EXTINF:0 tvg-id="sctv13hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv13.png",SCTV13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+#EXTINF:0 tvg-id="sctv14hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv14.png",SCTV14 - Kênh Phim Việt
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="sctv15hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv15.png",SCTV15 - SSport2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#EXTINF:0 tvg-id="sctv16hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv16.png",SCTV16
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+#EXTINF:0 tvg-id="sctv17hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv17.png",SCTV17 - SSport
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="sctv18hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv18.png",SCTV18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+#EXTINF:0 tvg-id="sctv19hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv19.png",SCTV19 - T Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8
+#EXTINF:0 tvg-id="sctv20hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv20.png",SCTV20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+#EXTINF:0 tvg-id="sctv21hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv21.png",SCTV21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+#EXTINF:0 tvg-id="sctv22hd" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctv22.png",SCTV22 - SSport1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+#EXTINF:0 tvg-id="sctvhdpth" group-title="#| Kênh SCTV" tvg-logo="https://azurex88.ddns.net/images/sctv/sctvpth.png",SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+#*--_--*#| Kênh Thiết yếu*--_--*#
+#EXTINF:0 tvg-id="antvhd" group-title="#| Kênh Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/antv.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONANTV_CL/04.m3u8
+#EXTINF:0 tvg-id="qpvnhd" group-title="#| Kênh Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/qpvn.png",QPVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:0 tvg-id="quochoi" group-title="#| Kênh Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/quochoi.png",Quốc Hội TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://220213024.r.vtvcdn.com/hls/ONQUOCHOI_CL/04.m3u8
+#EXTINF:0 tvg-id="nhandan" group-title="#| Kênh Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/nhandan.png",Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/ONNHANDAN_CL/index.m3u8
+#EXTINF:0 tvg-id="ttxvnhd" group-title="#| Kênh Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/ttxvn.png",TTXVN - VNEWS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://301984010.r.vtvcdn.com/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:0 tvg-id="vovtvhd" group-title="#| Kênh Thiết yếu" tvg-logo="https://azurex88.ddns.net/images/thietyeu/vovtv.png",VOV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#*--_--*#| Kênh Vĩnh Long*--_--*#
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="#| Kênh Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong1.png",Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vl1/index.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="#| Kênh Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong2.png",Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vl2/index.m3u8
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="#| Kênh Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong3.png",Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vl3/index.m3u8
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="#| Kênh Vĩnh Long" tvg-logo="https://azurex88.ddns.net/images/thvl/vinhlong4.png",Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/vl4/index.m3u8
+#*--_--*#| Kênh Địa phương*--_--*#
+#EXTINF:0 tvg-id="anvienhd" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/anvien.png",An Viên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/anvien/index.m3u8
+#EXTINF:0 tvg-id="angiang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/angiang.png",An Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
+#EXTINF:0 tvg-id="backan" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/backan.png",Bắc Kạn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
+#EXTINF:0 tvg-id="baclieu" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/baclieu.png",Bạc Liêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:0 tvg-id="bacninh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/bacninh.png",Bắc Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
+#EXTINF:0 tvg-id="bentre" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/bentre.png",Bến Tre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
+#EXTINF:0 tvg-id="binhdinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/binhdinh.png",Bình Định
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:0 tvg-id="binhduong1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/binhduong1.png",Bình Dương 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/binhduong1/index.m3u8
+#EXTINF:0 tvg-id="binhduong2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/binhduong2.png",Bình Dương 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/binhduong2/index.m3u8
+#EXTINF:0 tvg-id="binhphuoc1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/binhphuoc1.png",Bình Phước 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://vncdn.mediatech.vn/bptvlive/tv1live.m3u8
+#EXTINF:0 tvg-id="binhphuoc2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/binhphuoc2.png",Bình Phước 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+#EXTINF:0 tvg-id="binhthuan" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/binhthuan.png",Bình Thuận
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:0 tvg-id="camau" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/camau.png",Cà Mau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:0 tvg-id="cantho" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/cantho.png",Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
+#EXTINF:0 tvg-id="caobang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/caobang.png",Cao Bằng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://stream.thingnet.vn:1935/live/smil:CRTV.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="daklak" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/daklak.png",Đắk Lắk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:0 tvg-id="daknong" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/daknong.png",Đắk Nông
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="danang1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/danang1.png",Đà Nẵng 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:0 tvg-id="danang2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/danang2.png",Đà Nẵng 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:0 tvg-id="dongnai1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/dongnai1.png",Đồng Nai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://stream.thingnet.vn:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="dongnai2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/dongnai2.png",Đồng Nai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://stream.thingnet.vn:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="dongnai3" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/dongnai3.png",Đồng Nai 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/dongnai3/index.m3u8
+#EXTINF:0 tvg-id="dongthap1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/dongthap1.png",Đồng Tháp 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:0 tvg-id="dongthap2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/dongthap2.png",Đồng Tháp 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:0 tvg-id="dienbien" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/dienbien.png",Điện Biên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTINF:0 tvg-id="gialai" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/gialai.png",Gia Lai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.gialaitv.vn/tv.m3u8
+#EXTINF:0 tvg-id="hagiang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hagiang.png",Hà Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
+#EXTINF:0 tvg-id="hanam" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hanam.png",Hà Nam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
+#EXTINF:0 tvg-id="haiduong" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/haiduong.png",Hải Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
+#EXTINF:0 tvg-id="hanoi1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hanoi1.png",Hà Nội 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/33/index.m3u8
+#EXTINF:0 tvg-id="hanoi2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hanoi2.png",Hà Nội 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/34/index.m3u8
+#EXTINF:0 tvg-id="hatinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hatinh.png",Hà Tĩnh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://wse.hatinhtv.net/live/httv1/chunklist_w271915096.m3u8
+#EXTINF:0 tvg-id="haiphong" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/haiphong.png",Hải Phòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:0 tvg-id="haiphongplus" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/haiphongplus.png",Hải Phòng+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:0 tvg-id="haugiang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/haugiang.png",Hậu Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
+#EXTINF:0 tvg-id="hungyen" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hungyen.png",Hưng Yên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
+#EXTINF:0 tvg-id="khanhhoa" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/khanhhoa.png",Khánh Hoà
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.ktv.org.vn/ktv.m3u8
+#EXTINF:0 tvg-id="kiengiang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/kiengiang.png",Kiên Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:0 tvg-id="kiengiang1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/kiengiang1.png",Kiên Giang 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.kgtv.vn/live/kgtv/kgtv1.m3u8
+#EXTINF:0 tvg-id="kontum" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/kontum.png",Kon Tum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:0 tvg-id="laichau" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/laichau.png",Lai Châu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
+#EXTINF:0 tvg-id="lamdong" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/lamdong.png",Lâm Đồng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://stream.thingnet.vn:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:0 tvg-id="langson" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/langson.png",Lạng Sơn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:0 tvg-id="laocai" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/laocai.png",Lào Cai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
+#EXTINF:0 tvg-id="longan" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/longan.png",Long An
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:0 tvg-id="namdinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/namdinh.png",Nam Định
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/73/index.m3u8
+#EXTINF:0 tvg-id="nghean" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/nghean.png",Nghệ An
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:0 tvg-id="ninhbinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/ninhbinh.png",Ninh Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:0 tvg-id="ninhthuan" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/ninhthuan.png",Ninh Thuận
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
+#EXTINF:0 tvg-id="phutho" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/phutho.png",Phú Thọ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://ott3.nethubtv.vn/live/phuthotv/playlist.m3u8
+#EXTINF:0 tvg-id="phuyen" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/phuyen.png",Phú Yên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/78/index.m3u8
+#EXTINF:0 tvg-id="quangbinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangbinh.png",Quảng Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://ott4.nethubtv.vn/live/quangbinhtv/playlist.m3u8
+#EXTINF:0 tvg-id="quangnam" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangnam.png",Quảng Nam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="quangngai" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangngai.png",Quảng Ngãi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8
+#EXTINF:0 tvg-id="quangninh1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangninh1.png",Quảng Ninh 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:0 tvg-id="quangninh3" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangninh3.png",Quảng Ninh 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:0 tvg-id="quangtri" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangtri.png",Quảng Trị
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://ott4.nethubtv.vn/live/quangtritv/playlist.m3u8
+#EXTINF:0 tvg-id="soctrang1" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/soctrang1.png",Sóc Trăng 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="soctrang2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/soctrang2.png",Sóc Trăng 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:0 tvg-id="sonla" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/sonla.png",Sơn La
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:0 tvg-id="tayninh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/tayninh.png",Tây Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://118.69.83.22:1935/ttv11/tntv/playlist.m3u8
+#EXTINF:0 tvg-id="thaibinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/thaibinh.png",Thái Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
+#EXTINF:0 tvg-id="thainguyen" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/thainguyen.png",Thái Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:0 tvg-id="thanhhoa" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/thanhhoa.png",Thanh Hoá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
+#EXTINF:0 tvg-id="hue" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/thuathienhue.png",Thừa Thiên Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:0 tvg-id="tiengiang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/tiengiang.png",Tiền Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#EXTINF:0 tvg-id="travinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/travinh.png",Trà Vinh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist.m3u8
+#EXTINF:0 tvg-id="travinh2" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/travinh2.png",Trà Vinh 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist.m3u8
+#EXTINF:0 tvg-id="tuyenquang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/tuyenquang.png",Tuyên Quang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/channel/tuyenquang_1080p/chunks.m3u8
+#EXTINF:0 tvg-id="vinhphuc" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/vinhphuc.png",Vĩnh Phúc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:0 tvg-id="vungtau" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/brvt.png",Vũng Tàu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://oipf0znpmnliv.vcdn.cloud/hls/brvt/index.m3u8
+#EXTINF:0 tvg-id="yenbai" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/yenbai.png",Yên Bái
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
+#*--_--*#| Kênh Box*--_--*#
+#EXTINF:0 tvg-id="boxhits" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/boxhits.png",Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/239/index.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/boxmovie1.png",Box Movie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+#EXTINF:0 tvg-id="inthebox" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/inthebox.png",In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/235/index.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/hollywoodclassics.png",Hollywood Classics
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:0 tvg-id="happykids" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/happykids.png",Happy Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+#EXTINF:0 tvg-id="drfithd" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/drfit.png",Dr.Fit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+#EXTINF:0 tvg-id="musicbox" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/musicbox.png",Music Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTINF:0 tvg-id="planetearthhd" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/planetearth.png",Planet Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
+#EXTINF:0 tvg-id="manhd" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/man.png",Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/237/index.m3u8
+#EXTINF:0 tvg-id="woman" group-title="#| Kênh Box" tvg-logo="https://azurex88.ddns.net/images/inthebox/woman.png",Woman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
+#*--_--*#| Kênh Quốc Tế*--_--*#
+#EXTINF:0 tvg-id="axnhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/axn.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/axn/index.m3u8
+#EXTINF:0 tvg-id="afnhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/afn.png",AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/215/index.m3u8
+#EXTINF:0 tvg-id="arirang" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/arirang.png",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0 tvg-id="abcaustralia" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/abc-australia.png",ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://49.0.64.96:8007/ABC
+#EXTINF:0 tvg-id="bbcworldnews" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/bbc-news.png",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:0 tvg-id="cartoonito.sg" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cartoonito.png",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:0 tvg-id="cartoonhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cartoon-network.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/cartoon/index.m3u8
+#EXTINF:0 tvg-id="cna" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cna.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cnn.png",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/cnn/index.m3u8
+#EXTINF:0 tvg-id="cnbc" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/cnbc.png",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9855/index.m3u8
+#EXTINF:0 tvg-id="dw" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/dw.png",DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/dw/index.m3u8
+#EXTINF:0 tvg-id="davinci" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/davinci.png",Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/214/index.m3u8
+#EXTINF:0 tvg-id="discoveryhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/discovery-channel.png",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/discovery/index.m3u8
+#EXTINF:0 tvg-id="fashionhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/fashiontv.png",Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/fashiontv/index.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/france24_eng.png",France 24 English
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8
+#EXTINF:0 tvg-id="france24fr" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/france24_fr.png",France 24 Francais
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+https://e8.endpoint.cdn.sctvonline.vn/hls/france24_fra/index.m3u8
+#EXTINF:0 tvg-id="hgtv" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/hgtv.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/99/index.m3u8
+#EXTINF:0 tvg-id="historyhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/history.png",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/9856/index.m3u8
+#EXTINF:0 tvg-id="hbohd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/hbo.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/hbo/index.m3u8
+#EXTINF:0 tvg-id="kbsworld" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/kbsworld.png",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:0 tvg-id="lovenature" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/lovenature4k.png",Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0 tvg-id="nhkworld" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/nhkworldjp.png",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:0 tvg-id="axnhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/nhkpremium.png",NHK Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
+#EXTINF:0 tvg-id="one" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/one.png",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://cdn09jtedge.indihometv.com/joss/133/sone/chunklist_w1803602652_b1544100_sleng.m3u8?c
+#EXTINF:0 tvg-id="outdoorhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/outdoor.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/outdoor/index.m3u8
+#EXTINF:0 tvg-id="tlchd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/tlc.png",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/tlc/index.m3u8
+#EXTINF:0 tvg-id="tv5monde" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/tv5monde.png",TV5 Monde Asie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/tv5monde/index.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/warnertv.png",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://azurex88.ddns.net/premium/bpk-tv/qnettv/warnertv/index.m3u8
+#EXTINF:0 tvg-id="zoomoo" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/zoomoo.png",Zoomoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://49.0.64.96:8007/Zoomoo
