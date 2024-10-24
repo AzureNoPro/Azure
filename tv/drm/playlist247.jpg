@@ -617,7 +617,7 @@ http://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 http://ott3.nethubtv.vn/live/phuthotv/playlist.m3u8
 #EXTINF:0 tvg-id="phuyen" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/phuyen.png",Phú Yên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://thvip.site/360/78/index.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:0 tvg-id="quangbinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/quangbinh.png",Quảng Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://ott4.nethubtv.vn/live/quangbinhtv/playlist.m3u8
