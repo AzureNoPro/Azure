@@ -476,7 +476,7 @@ http://tv.thbl.vn/live/tv/tv.m3u8
 http://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 #EXTINF:0 tvg-id="bacgiang" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/bacgiang.png",Bắc Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
+http://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 #EXTINF:0 tvg-id="bentre" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/bentre.png",Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
@@ -570,6 +570,9 @@ http://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTINF:0 tvg-id="hungyen" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hungyen.png",Hưng Yên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
+#EXTINF:0 tvg-id="hoabinh" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/hoabinh.png",Hoà Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+http://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 #EXTINF:0 tvg-id="khanhhoa" group-title="#| Kênh Địa phương" tvg-logo="https://azurex88.ddns.net/images/diaphuong/khanhhoa.png",Khánh Hoà
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://tv.ktv.org.vn/ktv.m3u8
