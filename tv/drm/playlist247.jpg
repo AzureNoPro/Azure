@@ -721,7 +721,7 @@ http://azurex88.ddns.net/premium/bpk-tv/qnettv/axn/index.m3u8
 http://thvip.site/360/215/index.m3u8
 #EXTINF:0 tvg-id="arirang" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/arirang.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+http://thvip.site/360/111/index.m3u8
 #EXTINF:0 tvg-id="abcaustralia" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.ddns.net/images/global/abc-australia.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/ABC
