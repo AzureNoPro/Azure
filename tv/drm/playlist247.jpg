@@ -245,7 +245,7 @@ http://thvip.site/360/27/index.m3u8
 http://thvip.site/360/185/index.m3u8
 #EXTINF:0 tvg-id="onfootball" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab16.png",ON Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/vcab/vtvcab16/chunks.m3u8
+http://azurex88.ddns.net/premium/bpk-tv/vcab/vtvcab16/index.m3u8
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.ddns.net/images/vtvcab/vtvcab17.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/186/index.m3u8
