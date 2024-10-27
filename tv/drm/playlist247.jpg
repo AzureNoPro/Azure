@@ -23,16 +23,16 @@ http://stream.zeno.fm/crwtkeidk9vuv
 #*--_--*@Sự kiện MyTV@*--_--*#
 #EXTINF:0 tvg-id="801" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.myftp.biz/images/mytv/mytv.png",801
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://antm.dynu.net:14285/rtp/232.84.2.175:10858
+http://113.160.152.31:5050/rtp/232.84.2.175:10858
 #EXTINF:0 tvg-id="802" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.myftp.biz/images/mytv/mytv.png",802
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://antm.dynu.net:14285/rtp/232.84.2.176:10864
+http://113.160.152.31:5050/rtp/232.84.2.176:10864
 #EXTINF:0 tvg-id="803" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.myftp.biz/images/mytv/mytv.png",803
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://antm.dynu.net:14285/rtp/232.84.2.195:10954
+http://113.160.152.31:5050/rtp/232.84.2.195:10954
 #EXTINF:0 tvg-id="804" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.myftp.biz/images/mytv/mytv.png",804
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://antm.dynu.net:14285/rtp/232.84.2.196:10960
+http://113.160.152.31:5050/rtp/232.84.2.196:10960
 #*--_--*@Sự kiện TV360@*--_--*#
 #EXTINF:0 tvg-id="tv360plus1" group-title="@Sự kiện TV360@" tvg-logo="https://azurex88.myftp.biz/images/tv360/tv360plus1.png",TV360+1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
@@ -212,7 +212,7 @@ http://thvip.site/360/180/index.m3u8
 http://thvip.site/360/175/index.m3u8
 #EXTINF:0 tvg-id="onsports" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.myftp.biz/images/vtvcab/vtvcab3.png",ON Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://antm.dynu.net:14285/rtp/232.84.3.242:11374
+http://113.160.152.31:5050/rtp/232.84.3.242:11374
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="#| Kênh VTVcab" tvg-logo="https://azurex88.myftp.biz/images/vtvcab/vtvcab4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/181/index.m3u8
@@ -273,7 +273,7 @@ http://azurex88.ddns.net/premium/bpk-tv/vcab/btv5/index.m3u8
 #*--_--*#| Kênh K+*--_--*#
 #EXTINF:0 tvg-id="kkidshd" group-title="#| Kênh K+" tvg-logo="https://azurex88.myftp.biz/images/vstv/kplus_kids.png",K+KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://antm.dynu.net:14285/rtp/232.84.3.42:11800
+http://113.160.152.31:5050/rtp/232.84.3.42:11800
 #*--_--*#| Kênh VTC*--_--*#
 #EXTINF:0 tvg-id="vtc1hd" group-title="#| Kênh VTC" tvg-logo="https://azurex88.myftp.biz/images/vtc/vtc1.png",VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
