@@ -271,6 +271,18 @@ http://thvip.site/360/169/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://azurex88.ddns.net/premium/bpk-tv/vcab/btv5/index.m3u8
 #*--_--*#| Kênh K+*--_--*#
+#EXTINF:0 tvg-id="kcinehd" group-title="#| Kênh K+" tvg-logo="https://azurex88.myftp.biz/images/vstv/kplus_cine.png",K+CINE (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://14.187.170.42:3008/rtp/232.84.1.122:10314
+#EXTINF:0 tvg-id="kaction" group-title="#| Kênh K+" tvg-logo="https://azurex88.myftp.biz/images/vstv/kplus_action.png",K+ACTION (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://14.187.170.42:3008/rtp/232.84.1.123:10320
+#EXTINF:0 tvg-id="ksport1hd" group-title="#| Kênh K+" tvg-logo="https://azurex88.myftp.biz/images/vstv/kplus_sport1.png",K+SPORT1 (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://14.187.170.42:3008/rtp/232.84.1.125:10326
+#EXTINF:0 tvg-id="ksport2hd" group-title="#| Kênh K+" tvg-logo="https://azurex88.myftp.biz/images/vstv/kplus_sport2.png",K+SPORT2 (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://14.187.170.42:3008/rtp/232.84.1.176:10374
 #EXTINF:0 tvg-id="kkidshd" group-title="#| Kênh K+" tvg-logo="https://azurex88.myftp.biz/images/vstv/kplus_kids.png",K+KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://14.187.170.42:3008/rtp/232.84.3.42:11800
