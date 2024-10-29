@@ -731,7 +731,7 @@ http://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 #*--_--*#| Kênh Quốc Tế*--_--*#
 #EXTINF:0 tvg-id="axnhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/axn.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/axn/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/axn/index.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/afn.png",AFN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/215/index.m3u8
@@ -749,28 +749,28 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:0 tvg-id="cartoonhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/cartoon-network.png",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/cartoon/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/cartoon/index.m3u8
 #EXTINF:0 tvg-id="cna" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/cna.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/cnn.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/cnn/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/cnn/index.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/cnbc.png",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/9855/index.m3u8
 #EXTINF:0 tvg-id="dw" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/dw.png",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/dw/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/dw/index.m3u8
 #EXTINF:0 tvg-id="davinci" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/davinci.png",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/214/index.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/discovery-channel.png",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/discovery/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/discovery/index.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/fashiontv.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/fashiontv/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/fashiontv/index.m3u8
 #EXTINF:0 tvg-id="france24eng" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/france24_eng.png",France 24 English
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8
@@ -785,7 +785,7 @@ http://thvip.site/360/99/index.m3u8
 http://thvip.site/360/9856/index.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/hbo.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/hbo/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/hbo/index.m3u8
 #EXTINF:0 tvg-id="kbsworld" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/kbsworld.png",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -803,16 +803,16 @@ http://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
 http://cdn09jtedge.indihometv.com/joss/133/sone/chunklist_w1803602652_b1544100_sleng.m3u8?c
 #EXTINF:0 tvg-id="outdoorhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/outdoor.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/outdoor/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/outdoor/index.m3u8
 #EXTINF:0 tvg-id="tlchd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/tlc.png",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/tlc/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/tlc/index.m3u8
 #EXTINF:0 tvg-id="tv5monde" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/tv5monde.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/tv5monde/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/tv5monde/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/warnertv.png",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://azurex88.ddns.net/premium/bpk-tv/qnettv/warnertv/index.m3u8
+http://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:azurex88/mac=45-D4-DE-A0-D0-85/warnertv/index.m3u8
 #EXTINF:0 tvg-id="zoomoo" group-title="#| Kênh Quốc Tế" tvg-logo="https://azurex88.myftp.biz/images/global/zoomoo.png",Zoomoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/Zoomoo
