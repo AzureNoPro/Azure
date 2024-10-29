@@ -4,22 +4,6 @@
 #EXTM3U url-tvg="Trong list sẽ có kênh của nguồn khác"
 
 
-#*--_--*@ONNA Network*--_--*#
-#EXTINF:0 tvg-id="onnaanime" group-title="@ONNA Network" tvg-logo="https://azurex88.myftp.biz/images/archive/onna-anime.png",ONNA Anime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://kinescope.io/tGmeZgzk9PT4ufTTGqjrTf/master.m3u8
-#EXTINF:0 tvg-id="onnamusic" group-title="@ONNA Network" tvg-logo="https://azurex88.myftp.biz/images/archive/onna-music.png",ONNA Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://kinescope.io/qPLipcLsF5bvM3v2BQQkBB/master.m3u8
-#EXTINF:0 tvg-id="onnasatv24" group-title="@ONNA Network" tvg-logo="https://azurex88.myftp.biz/images/archive/onna-satv24.png",ONNA SATV24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://doitac.nekocdn.xyz/satv24/index.m3u8
-#EXTINF:0 tvg-id="onnatroami" group-title="@ONNA Network" tvg-logo="https://azurex88.myftp.biz/images/archive/onna-troami.png",ONNA Troami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://kinescope.io/fNfgXyS8xJLxquoPs62pyT/master.m3u8
-#EXTINF:0 tvg-id="onnaradio" group-title="@ONNA Network" tvg-logo="https://azurex88.myftp.biz/images/archive/onna-radio.png",ONNA Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://stream.zeno.fm/crwtkeidk9vuv
 #*--_--*@Sự kiện MyTV@*--_--*#
 #EXTINF:0 tvg-id="801" group-title="@Sự kiện MyTV@" tvg-logo="https://azurex88.myftp.biz/images/mytv/mytv.png",801
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
