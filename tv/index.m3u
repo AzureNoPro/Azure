@@ -1,5 +1,0 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
-#EXTINF:0 tvg-id="tv" group-title="Thông báo" tvg-logo="",Không hỗ trợ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
-http://sv.tvmienphi.xyz/m3u8/tvmienphi.m3u8
